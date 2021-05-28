@@ -3,7 +3,7 @@
 ## Instrumento Teclado desenvolvido com HTML + CSS + JS
 
 <video width="99%" height="540" autoplay loop controls>
-  <source src="https://youtu.be/SsXUyOl9QXE" type="video/mp4" >
+  <source src="https://www.youtube.com/watch?v=SsXUyOl9QXE&ab_channel=Daniloveloso" type="video/mp4" >
 </video>
 
 
