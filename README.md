@@ -6,7 +6,9 @@
   <source src="https://www.youtube.com/watch?v=SsXUyOl9QXE&ab_channel=Daniloveloso" type="video/mp4" >
 </video> -->
 
-[![Everything Is AWESOME](./assets/img/capture screen.png)](https://www.youtube.com/watch?v=SsXUyOl9QXE&ab_channel=Daniloveloso "Everything Is AWESOME")
+<a href="https://www.youtube.com/watch?v=SsXUyOl9QXE&ab_channel=Daniloveloso">
+    <img src="./assets/img/capture_screen.png" />
+</a>
 
 
 
